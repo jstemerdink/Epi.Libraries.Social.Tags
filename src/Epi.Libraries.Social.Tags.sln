@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epi.Libraries.Social.Tags", "Epi.Libraries.Social.Tags\Epi.Libraries.Social.Tags.csproj", "{0C37C049-3462-4416-B39F-998FA0882044}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{337742A8-DA4A-4762-827A-714E8910907B}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C37C049-3462-4416-B39F-998FA0882044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C37C049-3462-4416-B39F-998FA0882044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C37C049-3462-4416-B39F-998FA0882044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C37C049-3462-4416-B39F-998FA0882044}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EC12D69-5B02-4505-BC79-58FDE59DA01A}
+	EndGlobalSection
+EndGlobal
